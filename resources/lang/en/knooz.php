@@ -1,0 +1,35 @@
+<?php
+return [
+
+//knooz
+    'legal_advice'=>'Legal Advice',
+    'about_us'=>'About us',
+    'our_products'=>'Our products',
+    'our_projects'=>'Our projects',
+    'contact_us'=>'Contact us',
+    'quick_summary'=>'Quick summary',
+    'quick_contact'=>'For a fast contact',
+    'newsLetter'=>'Subscribe to our news letter',
+    'name'=>'name',
+    'more'=>'more',
+    'address'=>'Address',
+    'subject'=>'subject',
+    'send'=>'send',
+    'massage'=>'massage',
+    'phone'=>'Phone',
+    'send_massage'=>'send a massage',
+    'follow_us'=>'follow us',
+    'product_desc'=>'Product description',
+    'share_product'=>'share Product',
+    'about_knooz'=>'About Knooz',
+    '1992'=>'Established in 1992',
+    'photoz'=>'Various images from the project ',
+    'email'=>'email',
+    'availableP'=>'Available products',
+    'sub'=>'Subscribe',
+    'latest_p'=>'Latest projects',
+    'showAll'=>'Show all projects',
+    'knoozCarpentry'=>'knooz Carpentry',
+    'wood'=>'For furniture and wood work',
+
+];
